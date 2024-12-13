@@ -61,11 +61,7 @@ button:active{
         .operator-btn:active{
             background-color: rgb(99, 96, 96);
             }
-@media(max-width: 600px){
-    .calulator{
-        width:100%
-    }
-}
+
 
 
 
