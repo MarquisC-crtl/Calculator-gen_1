@@ -2,8 +2,8 @@
 body{
     margin: 0;
     display: flex;
-    justify-content: right;
-    align-items: right;
+    justify-content: center;
+    align-items: center;
     height: 100hv;
     background-color:hsl(0, 0%, 95%);
 
